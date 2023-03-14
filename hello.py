@@ -1,3 +1,2 @@
-# this prints hello world
 # how cool is that
-print("Hello World!")
+print("Hello World!") #Prints "Hello World"
